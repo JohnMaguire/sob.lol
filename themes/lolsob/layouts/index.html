@@ -1,0 +1,4 @@
+{{ define "main" }}
+{{- $lolsobImg := resources.Get "images/lolsob.png" | fingerprint -}}
+<img src="{{ $lolsobImg.Permalink }}" />
+{{ end }}

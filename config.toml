@@ -1,0 +1,4 @@
+baseURL = 'http://sob.lol/'
+languageCode = 'en-us'
+title = 'sob.lol'
+theme = 'lolsob'
